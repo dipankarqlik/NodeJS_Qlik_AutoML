@@ -1,0 +1,17 @@
+{
+  "name": "automl_qlik",
+  "version": "1.0.0",
+  "description": "NodeJS code to make call to Qlik AutoML API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ML"
+  ],
+  "author": "dipankar_qlik",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
